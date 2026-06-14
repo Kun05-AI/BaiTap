@@ -1,0 +1,23 @@
+{
+  "video_name": "Nguoi1",
+  "video_path": "D:\\UIT\\DS200_PhanTichDuLieuLon\\DS200.Q21.1_Lab05\\data\\video\\Nguoi1.mp4",
+  "video_info": {
+    "total_frames": 243,
+    "fps": 30.0,
+    "resolution": "2160x3840",
+    "duration_seconds": 8.1
+  },
+  "detection_summary": {
+    "total_detections": 7874,
+    "frames_processed": 240,
+    "avg_persons_per_frame": 32.81,
+    "max_persons_in_frame": 48,
+    "frames_with_persons": 240,
+    "detection_method": "SAHI + YOLO"
+  },
+  "processing": {
+    "processing_time_seconds": 1055.91,
+    "avg_processing_time_ms": 4399.62,
+    "timestamp": "2026-06-14T11:05:23.172495"
+  }
+}
